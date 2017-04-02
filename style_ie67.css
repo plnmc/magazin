@@ -1,0 +1,36 @@
+
+
+
+#top{
+	background-image:url(images/images_for_ie6/korzinki.jpg); 
+	background-position: 0px -12px; 	background-repeat: no-repeat;
+}
+
+#top-logo{
+	background-image:url(images/images_for_ie6/logo.jpg);
+	cursor: pointer;
+}
+
+#center-1lev{
+	height: none; 
+	border: 1px solid #aca899;
+}
+
+.center-1lev-left{
+	padding: 26px 21px 28px 25px; 
+}
+
+.center-1lev-another{
+	padding: 5px 28px 10px 28px; 
+}
+
+.center-1lev-right{
+	padding: 26px 25px 28px 42px;
+}
+
+
+#center-1lev-2v{height: 200px}
+
+.top-slogan{
+	margin: 22px 0px 35px 530px;
+}

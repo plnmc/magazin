@@ -1,0 +1,17 @@
+
+
+body{
+height:100%;
+margin:0px;
+padding:0px;
+} 
+
+#main-table{ height:100%;
+	background-color:#ffffff; width:100%; 
+	border-collapse: collapse;
+	border-spacing: 0px 0px; 
+}
+
+#top{
+	height: 245px; 
+}

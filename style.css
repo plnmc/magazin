@@ -1,0 +1,248 @@
+html,body{
+height:100%;
+margin:0px;
+padding:0px;
+}
+
+body {
+
+	font-family:Arial;
+	font-size:12px;
+	color: #000000;
+	list-style:none;
+}
+
+
+
+a img {border:none;}
+
+a{
+	color: #004a80;
+	text-decoration: underline;
+}
+
+a:hover {
+	color: #23acf5;
+	text-decoration: none;
+}
+
+h1, h2, h3, h4, b {
+	color: #004a80;
+}
+.big {
+	font-size:18px;
+
+}
+
+
+.ok-default{
+	width:330px; height: 182px;
+	background-image:url(images/input.png);
+	border: 0px; cursor: pointer;
+	background-color: transparent ;
+}
+
+.ok-demo-1{
+	width:272px; height: 113px;
+	background-image:url(images/input_1.png);
+	border: 0px; cursor: pointer;
+	background-color: transparent ;
+}
+
+.ok-demo-2{
+	width:272px; height: 113px;
+	background-image:url(images/input_2.png);
+	border: 0px; cursor: pointer;
+	background-color: transparent ;
+}
+
+HTML:root  #main-table{ height:100%;
+	background-color:#ffffff; width:100%;
+	border-collapse: collapse;
+	border-spacing: 0px 0px;
+}
+
+HTML:root #top{
+	height: 245px;
+}
+
+#top{
+	padding: 30px 0px 0px 0px ;
+	background-image:url(images/korzinki.png);
+	background-position: 0px -12px; 	background-repeat: no-repeat;
+}
+
+#top-td{
+	padding: 30px 0px 0px 0px;
+}
+
+#top-logo{
+	width:316px; height: 44px;
+	background-image:url(images/logo.png);
+	background-repeat: no-repeat;
+}
+
+#top-navigation{
+	margin: 27px 0px 0px 230px;
+}
+
+.top-slogan{
+	font-family: Times New Roman;
+	font-size:28px;
+	color: #6a7781;
+	font-style: italic;
+	font-weight: 900 ;
+	text-align:left;
+	margin: 22px 0px 0px 530px;
+        text-shadow: 2px 8px 6px rgba(0,0,0,0.2),0px -5px 35px rgba(255,255,255,0.3);
+}
+
+#top-navigation a{
+	font-family: Times New Roman;
+	font-size:19px;
+	color: #004a80;
+	font-style: italic;
+	font-weight: 900 ;
+	text-decoration: underline;
+	margin: 0px 22px 0px 0px;
+        text-shadow: 2px 8px 6px rgba(0,0,0,0.2),0px -5px 35px rgba(255,255,255,0.3);
+}
+
+#top-navigation a:hover, #top-navigation a.top-active-link{
+	font-family: Times New Roman;
+	font-size:19px;
+	color: #23acf5;
+	font-style: italic;
+	font-weight: 900 ;
+	text-decoration: none;
+	margin: 0px 22px 0px 0px;
+}
+
+.center-title{
+	font-family: Times New Roman;
+	font-size:22px;
+	color: #23acf5;
+	font-style: italic;
+	font-weight: 900 ;
+}
+
+#center-1lev, #center-1lev-2v{
+	background-image:url(images/center-1lev-background.png);
+	background-position: center bottom;
+	background-repeat: repeat-x;
+}
+
+#center-1lev{height: 275px;}
+#center-1lev-2v{height: 100%;}
+
+.center-1lev-left{
+	padding: 26px 21px 28px 25px;
+}
+
+.center-1lev-another{
+	padding: 5px 28px 10px 28px;
+}
+
+.center-1lev-right{
+	padding: 26px 25px 28px 42px;
+}
+
+#center-1lev-line{
+	background-image:url(images/line.png);
+	background-position: center top;
+	background-repeat: no-repeat;
+	height: 1px;
+}
+
+.center-2lev-left{
+	padding: 26px 21px 28px 25px;
+	vertical-align: top;
+}
+
+/*
+.center-2lev-left a, .center-2lev-right a{
+	color: #000000;
+}
+.center-2lev-left a:hover, .center-2lev-right a:hover{
+	color: #004a80;
+}
+*/
+
+.center-2lev-right{
+	padding: 26px 25px 28px 21px;
+}
+.center-1lev-divider{
+	width: 1px;
+	background-image:url(images/line-1lev-divider.png);
+	background-position: center center;
+	background-repeat: no-repeat;
+}
+
+.center-2lev-divider{
+	width: 1px;
+	background-image:url(images/line-2lev-divider.png);
+	background-position: center center;
+	background-repeat: no-repeat;
+}
+
+#footer-name{ height: 25px;
+	background-image:url(images/line.png);
+	background-position: center top;
+	background-repeat: no-repeat;
+	padding: 6px 0px 8px 0px;
+	font-size:12px;
+}
+
+#footer{height: 28px;
+	background-color:#004a80;
+	background-image:url(images/im_footer.png);
+	background-position: center;
+	background-repeat: no-repeat;
+	font-size:12px;
+	color: #ffffff;
+	font-weight: 100 ;
+}
+
+#footer-table{
+	background-color: transparent ;
+}
+
+#footer-first-tr{
+	text-align: left;
+	width: 72px;
+}
+
+#footer-table a{
+	color: #ffffff;
+	font-weight: 100 ;
+	text-decoration: none;
+}
+
+.dark   { 
+        background-color: #c5e9fc; 
+}
+
+.light  { 
+        background-color: #ffffff; 
+}
+
+.whitetext { 
+        color: #000000;
+}
+
+.tableheader {
+        font-size:19px; 	
+        text-align:center;
+}
+
+.center {
+        text-align:center;
+}
+
+.error { 
+        color: #cc0000;
+	font-size:18px;
+	font-weight: 100 ;
+}
+
+}

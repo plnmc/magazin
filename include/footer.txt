@@ -1,0 +1,12 @@
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-0846431395178661";
+/* 120x240, создано 08.08.08 */
+google_ad_slot = "6747074661";
+google_ad_width = 120;
+google_ad_height = 240;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<div align=center style="margin-bottom:20px"><a href="http://vsemagazin.ru">ВсеМагазин</a> - интернет-магазины для всех!</div>
